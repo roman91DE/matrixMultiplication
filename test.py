@@ -1,3 +1,0 @@
-import matrixMultiplication.functions
-from matrixMultiplication.matrixMultiplication.functions import init_random_matrix, print_matrix
-
