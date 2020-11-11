@@ -1,2 +1,3 @@
 # matrixMultiplication
-python functions to initialize and multiplicate matrices
+algorithms to multiply two dimensional arrays
+
